@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinicio Coelho
-- 👀 I’m interested in web development using JavaScript and React, and in MQL4
-- 🌱 I’m currently learning ReactJS and MQL4
-- 💞️ I’m looking to collaborate on JavaScript and MQL4 projects
+- 👀 I’m interested in web development using Python and MQL5
+- 🌱 I’m currently learning MQL5 and Python
+- 💞️ I’m looking to collaborate on Python and MQL5 projects
 - 📫 Reach me on coelhocvcg@gmail.com or on my LinkedIn
 
 ##
