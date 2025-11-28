@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinicio Coelho
-- 👀 I’m interested in web development using Python and MQL5
-- 🌱 I’m currently learning MQL5 and Python
-- 💞️ I’m looking to collaborate on Python and MQL5 projects
+- 👀 I’m interested in web development using Javascript and React
+- 🌱 I’m currently learning React, React Native and Next-JS
+- 💞️ I’m looking to collaborate on Javascript projects
 - 📫 Reach me on coelhocvcg@gmail.com or on my LinkedIn
 
 ##
